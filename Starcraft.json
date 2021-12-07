@@ -1,0 +1,1113 @@
+
+
+{ 
+    "Starcraft":
+    [
+        {
+        "SCV": [
+            {
+                "Strong Against": {
+                    "Terran": "None",
+                    "Zerg": "None",
+                    "Protoss": "None"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "None",
+                    "Zerg": "None",
+                    "Protoss": "None"
+                }
+            }
+        ],
+        "MULE": [
+            {
+                "Strong Against": {
+                    "Terran": "None",
+                    "Zerg": "None",
+                    "Protoss": "None"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "None",
+                    "Zerg": "None",
+                    "Protoss": "None"
+                }
+            }
+        ],
+        "Marine": [
+            {
+                "Strong Against": {
+                    "Terran": "Marauder",
+                    "Zerg": "Mutalisk",
+                    "Protoss": "Immortal"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Siege Tank",
+                    "Zerg": "Baneling",
+                    "Protoss": "Colossus"
+                }
+            }
+        ],
+        "Reaper": [
+            {
+                "Strong Against": {
+                    "Terran": "SCV",
+                    "Zerg": "Drone",
+                    "Protoss": "Probe"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Marauder",
+                    "Zerg": "Roach",
+                    "Protoss": "Stalker"
+                }
+            }
+        ],
+        "Marauder": [
+            {
+                "Strong Against": {
+                    "Terran": "Thor",
+                    "Zerg": "Roach",
+                    "Protoss": "Stalker"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Marine",
+                    "Zerg": "Zergling",
+                    "Protoss": "Zealot"
+                }
+            }
+        ],
+        "Ghost": [
+            {
+                "Strong Against": {
+                    "Terran": "Raven",
+                    "Zerg": "Infestor",
+                    "Protoss": "High Templar"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Thor",
+                    "Zerg": "Roach",
+                    "Protoss": "Stalker"
+                }
+            }
+        ],
+        "Hellion": [
+            {
+                "Strong Against": {
+                    "Terran": "SCV",
+                    "Zerg": "Zergling",
+                    "Protoss": "Probe"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Cyclone",
+                    "Zerg": "Roach",
+                    "Protoss": "Stalker"
+                }
+            }
+        ],
+        "Hellbat": [
+            {
+                "Strong Against": {
+                    "Terran": "SCV",
+                    "Zerg": "Zergling",
+                    "Protoss": "Zealot"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Marauder",
+                    "Zerg": "Baneling",
+                    "Protoss": "Stalker"
+                }
+            }
+        ],
+        "Widow Mine": [
+            {
+                "Strong Against": {
+                    "Terran": "Marine",
+                    "Zerg": "Baneling",
+                    "Protoss": "Oracle"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Raven",
+                    "Zerg": "Overseer",
+                    "Protoss": "Observer"
+                }
+            }
+        ],
+        "Siege Tank": [
+            {
+                "Strong Against": {
+                    "Terran": "Marine",
+                    "Zerg": "Hydralisk",
+                    "Protoss": "Stalker"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Banshee",
+                    "Zerg": "Mutalisk",
+                    "Protoss": "Immortal"
+                }
+            }
+        ],
+        "Cyclone": [
+            {
+                "Strong Against": {
+                    "Terran": "Marauder",
+                    "Zerg": "Roach",
+                    "Protoss": "Adept"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Siege Tank",
+                    "Zerg": "Zergling",
+                    "Protoss": "Immortal"
+                }
+            }
+        ],
+        "Thor": [
+            {
+                "Strong Against": {
+                    "Terran": "Viking",
+                    "Zerg": "Mutalisk",
+                    "Protoss": "Phoenix"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Marauder",
+                    "Zerg": "Zergling",
+                    "Protoss": "Immortal"
+                }
+            }
+        ],
+        "Viking": [
+            {
+                "Strong Against": {
+                    "Terran": "Battlecruiser",
+                    "Zerg": "Broodlord",
+                    "Protoss": "Tempest"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Marine",
+                    "Zerg": "Hydralisk",
+                    "Protoss": "Stalker"
+                }
+            }
+        ],
+        "Medivac": [
+            {
+                "Strong Against": {
+                    "Terran": "None",
+                    "Zerg": "None",
+                    "Protoss": "None"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Missile Turret",
+                    "Zerg": "Spore Crawler",
+                    "Protoss": "Photon Cannon"
+                }
+            }
+        ],
+        "Liberator": [
+            {
+                "Strong Against": {
+                    "Terran": "Siege Tank",
+                    "Zerg": "Ultralisk",
+                    "Protoss": "Phoenix"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Battlecruiser",
+                    "Zerg": "Corruptor",
+                    "Protoss": "Tempest"
+                }
+            }
+        ],
+        "Raven": [
+            {
+                "Strong Against": {
+                    "Terran": "Banshee",
+                    "Zerg": "Lurker",
+                    "Protoss": "Dark Templar"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Viking",
+                    "Zerg": "Mutalisk",
+                    "Protoss": "High Templar"
+                }
+            }
+        ],
+        "Battlecruiser": [
+            {
+                "Strong Against": {
+                    "Terran": "Liberator",
+                    "Zerg": "Mutalisk",
+                    "Protoss": "Carrier"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Viking",
+                    "Zerg": "Corruptor",
+                    "Protoss": "Void Ray"
+                }
+            }
+        ],
+        "Banshee": [
+            {
+                "Strong Against": {
+                    "Terran": "Siege Tank",
+                    "Zerg": "Ravager",
+                    "Protoss": "Adept"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Viking",
+                    "Zerg": "Hydralisk",
+                    "Protoss": "Phoenix"
+                }
+            }
+        ],
+        "Planetary Fortress": [
+            {
+                "Strong Against": {
+                    "Terran": "Marine",
+                    "Zerg": "Zergling",
+                    "Protoss": "Zealot"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Siege Tank",
+                    "Zerg": "Mutalisk",
+                    "Protoss": "Void Ray"
+                }
+            }
+        ],
+        "Bunker": [
+            {
+                "Strong Against": {
+                    "Terran": "Marine",
+                    "Zerg": "Zergling",
+                    "Protoss": "Zealot"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Siege Tank",
+                    "Zerg": "Baneling",
+                    "Protoss": "Immortal"
+                }
+            }
+        ],
+        "Missile Turret": [
+            {
+                "Strong Against": {
+                    "Terran": "Banshee",
+                    "Zerg": "Mutalisk",
+                    "Protoss": "Phoenix"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Marine",
+                    "Zerg": "Zergling",
+                    "Protoss": "Zealot"
+                }
+            }
+        ],
+        "Auto Turret": [
+            {
+                "Strong Against": {
+                    "Terran": "SCV",
+                    "Zerg": "Drone",
+                    "Protoss": "Prone"
+                }
+            },
+            {
+                "Weak Against": {
+                    "Terran": "Marauder",
+                    "Zerg": "Hydralisk",
+                    "Protoss": "Immortal"
+                }
+            }
+        ],
+            "Larva": [
+                {
+                    "Strong Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                }
+            ],
+            "Drone": [
+                {
+                    "Strong Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                }
+            ],
+            "Zergling": [
+                {
+                    "Strong Against": {
+                        "Terran": "Marauder",
+                        "Zerg": "Hydralisk",
+                        "Protoss": "Stalker"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Hellbat",
+                        "Zerg": "Baneling",
+                        "Protoss": "Colossus"
+                    }
+                }
+            ],
+            "Baneling": [
+                {
+                    "Strong Against": {
+                        "Terran": "Marine",
+                        "Zerg": "Zergling",
+                        "Protoss": "Zealot"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Marauder",
+                        "Zerg": "Infestor",
+                        "Protoss": "Stalker"
+                    }
+                }
+            ],
+            "Roach": [
+                {
+                    "Strong Against": {
+                        "Terran": "Hellion",
+                        "Zerg": "Zergling",
+                        "Protoss": "Adept"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Marauder",
+                        "Zerg": "Lurker",
+                        "Protoss": "Immortal"
+                    }
+                }
+            ],
+            "Ravager": [
+                {
+                    "Strong Against": {
+                        "Terran": "Liberator",
+                        "Zerg": "Lurker",
+                        "Protoss": "Sentry"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Marauder",
+                        "Zerg": "Mutalisk",
+                        "Protoss": "Immortal"
+                    }
+                }
+            ],
+            "Hydralisk": [
+                {
+                    "Strong Against": {
+                        "Terran": "Banshee",
+                        "Zerg": "Mutalisk",
+                        "Protoss": "Void Ray"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Siege Tank",
+                        "Zerg": "Zergling",
+                        "Protoss": "Colossus"
+                    }
+                }
+            ],
+            "Lurker": [
+                {
+                    "Strong Against": {
+                        "Terran": "Marine",
+                        "Zerg": "Roach",
+                        "Protoss": "Stalker"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Siege Tank",
+                        "Zerg": "Viper",
+                        "Protoss": "Disruptor"
+                    }
+                }
+            ],
+            "Viper": [
+                {
+                    "Strong Against": {
+                        "Terran": "Siege Tank",
+                        "Zerg": "Hydralisk",
+                        "Protoss": "Colossus"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Ghost",
+                        "Zerg": "Corruptor",
+                        "Protoss": "High Templar"
+                    }
+                }
+            ],
+            "Mutalisk": [
+                {
+                    "Strong Against": {
+                        "Terran": "SCV",
+                        "Zerg": "Drone",
+                        "Protoss": "Probe"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Thor",
+                        "Zerg": "Viper",
+                        "Protoss": "Phoenix"
+                    }
+                }
+            ],
+            "Corruptor": [
+                {
+                    "Strong Against": {
+                        "Terran": "Battlecruiser",
+                        "Zerg": "Brood Lord",
+                        "Protoss": "Tempest"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Thor",
+                        "Zerg": "Hydralisk",
+                        "Protoss": "Void Ray"
+                    }
+                }
+            ],
+            "Swarm Host": [
+                {
+                    "Strong Against": {
+                        "Terran": "SCV",
+                        "Zerg": "Drone",
+                        "Protoss": "Probe"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Banshee",
+                        "Zerg": "Mutalisk",
+                        "Protoss": "Stalker"
+                    }
+                }
+            ],
+            "Locust": [
+                {
+                    "Strong Against": {
+                        "Terran": "SCV",
+                        "Zerg": "Drone",
+                        "Protoss": "Probe"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Hellbat",
+                        "Zerg": "Ultralisk",
+                        "Protoss": "Colossus"
+                    }
+                }
+            ],
+            "Infestor": [
+                {
+                    "Strong Against": {
+                        "Terran": "Marine",
+                        "Zerg": "Mutalisk",
+                        "Protoss": "Void Ray"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Ghost",
+                        "Zerg": "Ultralisk",
+                        "Protoss": "High Templar"
+                    }
+                }
+            ],
+            "Ultralisk": [
+                {
+                    "Strong Against": {
+                        "Terran": "Marine",
+                        "Zerg": "Zergling",
+                        "Protoss": "Zealot"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Ghost",
+                        "Zerg": "Brood Lord",
+                        "Protoss": "Immortal"
+                    }
+                }
+            ],
+            "Brood Lord": [
+                {
+                    "Strong Against": {
+                        "Terran": "Siege Tank",
+                        "Zerg": "Ultralisk",
+                        "Protoss": "High Templar"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Viking",
+                        "Zerg": "Corruptor",
+                        "Protoss": "Tempest"
+                    }
+                }
+            ],
+            "Broodling": [
+                {
+                    "Strong Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                }
+            ],
+            "Overlord": [
+                {
+                    "Strong Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Missile Turret",
+                        "Zerg": "Spore Crawler",
+                        "Protoss": "Photon Cannon"
+                    }
+                }
+            ],
+            "Overseer": [
+                {
+                    "Strong Against": {
+                        "Terran": "Banshee",
+                        "Zerg": "Lurker",
+                        "Protoss": "Dark Templar"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Viking",
+                        "Zerg": "Mutalisk",
+                        "Protoss": "Stalker"
+                    }
+                }
+            ],
+            "Queen": [
+                {
+                    "Strong Against": {
+                        "Terran": "Hellion",
+                        "Zerg": "Mutalisk",
+                        "Protoss": "Oracle"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Marine",
+                        "Zerg": "Zergling",
+                        "Protoss": "Zealot"
+                    }
+                }
+            ],
+            "Changeling": [
+                {
+                    "Strong Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                }
+            ],
+            "Spine Crawler": [
+                {
+                    "Strong Against": {
+                        "Terran": "Marine",
+                        "Zerg": "Roach",
+                        "Protoss": "Zealot"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Siege Tank",
+                        "Zerg": "Baneling",
+                        "Protoss": "Immortal"
+                    }
+                }
+            ],
+            "Spore Crawler": [
+                {
+                    "Strong Against": {
+                        "Terran": "Banshee",
+                        "Zerg": "Mutalisk",
+                        "Protoss": "Oracle"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Marine",
+                        "Zerg": "Zergling",
+                        "Protoss": "Zealot"
+                    }
+                }
+            ],
+            "Nydus Worm": [
+                {
+                    "Strong Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                }
+            ],
+            "Probe": [
+                {
+                    "Strong Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                }
+            ],
+            "Zealot": [
+                {
+                    "Strong Against": {
+                        "Terran": "Marauder",
+                        "Zerg": "Zergling",
+                        "Protoss": "Immortal"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Hellbat",
+                        "Zerg": "Roach",
+                        "Protoss": "Colossus"
+                    }
+                }
+            ],
+            "Adept": [
+                {
+                    "Strong Against": {
+                        "Terran": "Marine",
+                        "Zerg": "Zergling",
+                        "Protoss": "Zealot"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Marauder",
+                        "Zerg": "Roach",
+                        "Protoss": "Stalker"
+                    }
+                }
+            ],
+            "Sentry": [
+                {
+                    "Strong Against": {
+                        "Terran": "Marine",
+                        "Zerg": "Zergling",
+                        "Protoss": "Zealot"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Thor",
+                        "Zerg": "Ravager",
+                        "Protoss": "Archon"
+                    }
+                }
+            ],
+            "Stalker": [
+                {
+                    "Strong Against": {
+                        "Terran": "Reaper",
+                        "Zerg": "Corruptor",
+                        "Protoss": "Tempest"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Marauder",
+                        "Zerg": "Zergling",
+                        "Protoss": "Immortal"
+                    }
+                }
+            ],
+            "Dark Templar": [
+                {
+                    "Strong Against": {
+                        "Terran": "SCV",
+                        "Zerg": "Drone",
+                        "Protoss": "Probe"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Raven",
+                        "Zerg": "Overseer",
+                        "Protoss": "Observer"
+                    }
+                }
+            ],
+            "High Templar": [
+                {
+                    "Strong Against": {
+                        "Terran": "Marine",
+                        "Zerg": "Hydralisk",
+                        "Protoss": "Sentry"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Ghost",
+                        "Zerg": "Roach",
+                        "Protoss": "Colossus"
+                    }
+                }
+            ],
+            "Archon": [
+                {
+                    "Strong Against": {
+                        "Terran": "Marine",
+                        "Zerg": "Mutalisk",
+                        "Protoss": "Adept"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Thor",
+                        "Zerg": "Hydralisk",
+                        "Protoss": "Immortal"
+                    }
+                }
+            ],
+            "Warp Prism": [
+                {
+                    "Strong Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Missile Turret",
+                        "Zerg": "Spore Crawler",
+                        "Protoss": "Photon Cannon"
+                    }
+                }
+            ],
+            "Observer": [
+                {
+                    "Strong Against": {
+                        "Terran": "Banshee",
+                        "Zerg": "Lurker",
+                        "Protoss": "Dark Templar"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Missile Turret",
+                        "Zerg": "Spore Crawler",
+                        "Protoss": "Photon Cannon"
+                    }
+                }
+            ],
+            "Immortal": [
+                {
+                    "Strong Against": {
+                        "Terran": "Cyclone",
+                        "Zerg": "Roach",
+                        "Protoss": "Stalker"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Marine",
+                        "Zerg": "Zergling",
+                        "Protoss": "Zealot"
+                    }
+                }
+            ],
+            "Colossus": [
+                {
+                    "Strong Against": {
+                        "Terran": "Marine",
+                        "Zerg": "Zergling",
+                        "Protoss": "Zealot"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Viking",
+                        "Zerg": "Corruptor",
+                        "Protoss": "Tempest"
+                    }
+                }
+            ],
+            "Disruptor": [
+                {
+                    "Strong Against": {
+                        "Terran": "Marauder",
+                        "Zerg": "Hydralisk",
+                        "Protoss": "Stalker"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Thor",
+                        "Zerg": "Ultralisk",
+                        "Protoss": "Tempest"
+                    }
+                }
+            ],
+            "Phoenix": [
+                {
+                    "Strong Against": {
+                        "Terran": "Banshee",
+                        "Zerg": "Mutalisk",
+                        "Protoss": "Oracle"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Battlecruiser",
+                        "Zerg": "Corruptor",
+                        "Protoss": "Carrier"
+                    }
+                }
+            ],
+            "Void Ray": [
+                {
+                    "Strong Against": {
+                        "Terran": "Battlecruiser",
+                        "Zerg": "Corruptor",
+                        "Protoss": "Immortal"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Marine",
+                        "Zerg": "Hydralisk",
+                        "Protoss": "Phoenix"
+                    }
+                }
+            ],
+            "Oracle": [
+                {
+                    "Strong Against": {
+                        "Terran": "SCV",
+                        "Zerg": "Drone",
+                        "Protoss": "Probe"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Viking",
+                        "Zerg": "Mutalisk",
+                        "Protoss": "Phoenix"
+                    }
+                }
+            ],
+            "Carrier": [
+                {
+                    "Strong Against": {
+                        "Terran": "Siege Tank",
+                        "Zerg": "Mutalisk",
+                        "Protoss": "Phoenix"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Viking",
+                        "Zerg": "Corruptor",
+                        "Protoss": "Tempest"
+                    }
+                }
+            ],
+            "Tempest": [
+                {
+                    "Strong Against": {
+                        "Terran": "Liberator",
+                        "Zerg": "Brood Lord",
+                        "Protoss": "Colossus"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Viking",
+                        "Zerg": "Corruptor",
+                        "Protoss": "Void Ray"
+                    }
+                }
+            ],
+            "Interceptor": [
+                {
+                    "Strong Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                }
+            ],
+            "Mothership": [
+                {
+                    "Strong Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Viking",
+                        "Zerg": "Corruptor",
+                        "Protoss": "Tempest"
+                    }
+                }
+            ],
+            "Photon Cannon": [
+                {
+                    "Strong Against": {
+                        "Terran": "Banshee",
+                        "Zerg": "Mutalisk",
+                        "Protoss": "Dark Templar"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Siege Tank",
+                        "Zerg": "Brood Lord",
+                        "Protoss": "Immortal"
+                    }
+                }
+            ],
+            "Shield Battery": [
+                {
+                    "Strong Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "None",
+                        "Zerg": "None",
+                        "Protoss": "None"
+                    }
+                }
+            ],
+            "Statis Ward": [
+                {
+                    "Strong Against": {
+                        "Terran": "Marine",
+                        "Zerg": "Zergling",
+                        "Protoss": "Zealot"
+                    }
+                },
+                {
+                    "Weak Against": {
+                        "Terran": "Raven",
+                        "Zerg": "Overseer",
+                        "Protoss": "Observer"
+                    }
+                }
+            ]
+        }
+    ]
+}
